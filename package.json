@@ -1,4 +1,9 @@
-"homepage": "https://github.io"
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "homepage": "https://github.io",
+  ...
+}
 {
   "name": "react-example",
   "private": true,
