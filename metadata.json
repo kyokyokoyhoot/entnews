@@ -1,0 +1,8 @@
+{
+  "name": "Remix K-Ent Reporter Desk",
+  "description": "대한민국 연예계 화제 이슈 순위 및 영화·음악·공연·OTT 제작·투자 실무 뉴스 전문 브리핑 스튜디오",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
